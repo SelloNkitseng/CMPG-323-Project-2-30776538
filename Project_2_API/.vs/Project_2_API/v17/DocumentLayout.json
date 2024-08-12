@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\controllers\\jobtelemetriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:controllers\\jobtelemetriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|c:\\users\\sello\\source\\repos\\cmpg-323-project-2-30776538\\project_2_api\\project_2_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1F55DB3-407B-4492-9A24-D86E66875C60}|Project_2_API.csproj|solutionrelative:project_2_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:37:08.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Authentication\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\UserRoles.cs",
+              "RelativeToolTip": "Authentication\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:33:37.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Authentication\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\RegisterModel.cs",
+              "RelativeToolTip": "Authentication\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:33:53.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Authentication\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\LoginModel.cs",
+              "RelativeToolTip": "Authentication\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:34:11.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\Response.cs",
+              "RelativeDocumentMoniker": "Authentication\\Response.cs",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\Response.cs",
+              "RelativeToolTip": "Authentication\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:34:30.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Authentication\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "Authentication\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:32:48.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:16:40.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Authentication\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Authentication\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:33:15.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobTelemetriesController.cs",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Controllers\\JobTelemetriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobTelemetriesController.cs",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Controllers\\JobTelemetriesController.cs",
+              "RelativeToolTip": "Controllers\\JobTelemetriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:48:29.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T09:05:11.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project_2_API.csproj",
+              "DocumentMoniker": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Project_2_API.csproj",
+              "RelativeDocumentMoniker": "Project_2_API.csproj",
+              "ToolTip": "C:\\Users\\sello\\source\\repos\\CMPG-323-Project-2-30776538\\Project_2_API\\Project_2_API.csproj",
+              "RelativeToolTip": "Project_2_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T21:02:46.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
