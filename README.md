@@ -29,4 +29,4 @@ A GET method named GetSavings in the API that queries all telemetry per client a
 
 A big part of the project was also to ensure that authentication has been set up to restrict access to the API
 
-referene list can be found here: https://github.com/SelloNkitseng/CMPG-323-Project-2-30776538/blob/main/Reference%20List.docx  
+Referene list can be found here: https://github.com/SelloNkitseng/CMPG-323-Project-2-30776538/blob/main/Reference%20List.docx  
