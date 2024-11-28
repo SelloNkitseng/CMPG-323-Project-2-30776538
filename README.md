@@ -1,4 +1,4 @@
-# CMPG-323-Project-2-30776538
+# Project-2-CRUD-RESTful-API-Implementation
 
 In this project my objective was to create an automated solution thats hosted on Azure, that can determine how much time is saved each time one of Tech Trend's automations runs. I was tasked to utilise RESTful APIs for cloud management that consists of CRUD methods to allow the retrieval of data and the manipulation of data
 
